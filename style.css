@@ -1,0 +1,25 @@
+
+body {
+background-image: url(wallhaven-169316.jpg);
+font-family: monospace;
+font-size: 18px ;
+}
+
+
+h2 {color: red; text-align: center;}
+
+
+p { color: yellow;
+text-align: center; }
+
+h1 {color: black; text-align: center;}
+
+img {margin: right: auto
+	left : auto;}
+
+ul {color: yellow;
+text-align: center;}
+
+div.stenenbabyhoofd {color : yellow;}
+
+h1 { color : red; }
